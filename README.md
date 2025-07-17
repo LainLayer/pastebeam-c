@@ -23,3 +23,5 @@ gcc -o pastebeam pastebeam.c -O3 -ffast-math -march=native -mtune=native -flto=a
 get <id>        - get a pastebin from its id
 post <filename> - post a file and print its id
 ```
+
+testing fossil integration
